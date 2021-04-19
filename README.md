@@ -1,1 +1,2 @@
-# 🚀  LeetCode Task [leetcode](https://assets.leetcode.com/users/leetcode/avatar_1568224780.png)
+# 🚀  LeetCode Task
+![python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
