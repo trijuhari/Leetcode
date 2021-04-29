@@ -12,5 +12,5 @@ def solution(n):
         elif bin_gap :
             bin_counter += 1
     return bin_max
-var1 =  solution(1041)
-print(var1)
+  
+print(solution(1041))
